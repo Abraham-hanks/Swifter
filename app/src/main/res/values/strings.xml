@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kotlin-Task-1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Name: Osayi-Ekekhor Abraham</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="slack_name_text">Username: Abraham-hanks</string>
+    <string name="email_text">Email: ekekhorabraham@gmail.com</string>
+    <string name="courses_text">Courses: Kotlin, c#, Design and Node Js</string>
+</resources>
